@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "音一会",
+  "base_artist": "MyGO!!!!!",
+  "createdAt": "2025-12-01T01:46:45.948397Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "音一会",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/01_音一会_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "音一会",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/02_音一会_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "音一会",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/03_音一会_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "音一会",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/pl_音一会_MyGO!!!!!.txt"
+    }
+  ]
+}
